@@ -9,7 +9,7 @@
 <br>
 
 <!-- Sosyal Medya Bağlantıları -->
-<a href="https://www.linkedin.com/in/abdulkadir-alagöz" target="_blank">
+<a href="https://www.linkedin.com/in/abdulkadir-alagöz-3283542a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ekarteet" target="_blank">
@@ -50,45 +50,31 @@
   </tr>
 </table>
 
-<!-- Skill Progress Bars -->
-```typescript
-class Developer {
-    name: string = "Abdulkadir Alagöz";
-    title: string = "Game Developer & Software Engineer";
-    
-    skills: Record<string, number> = {
-        "Game Development": 90,
-        "Problem Solving": 85,
-        "Software Architecture": 80,
-        "UI/UX Design": 75,
-        "Team Leadership": 85
-    };
+<!-- Yetenekler ve Deneyim -->
+<div align="center">
+  <h3>🚀 Yetenekler ve Deneyim</h3>
+  
+  | Alan | Seviye |
+  |------|---------|
+  | 🎮 Oyun Geliştirme | ⭐⭐⭐⭐⭐ |
+  | 💡 Problem Çözme | ⭐⭐⭐⭐ |
+  | 🏗️ Yazılım Mimarisi | ⭐⭐⭐⭐ |
+  | 🎨 UI/UX Tasarım | ⭐⭐⭐⭐ |
+  | 👥 Takım Liderliği | ⭐⭐⭐⭐ |
 
-    languages: Record<string, string> = {
-        Java: "⭐⭐⭐⭐⭐",
-        Python: "⭐⭐⭐⭐",
-        "C++": "⭐⭐⭐⭐",
-        "C#": "⭐⭐⭐⭐",
-        C: "⭐⭐⭐"
-    };
-
-    getCurrentProject(): string {
-        return "🎮 Nefes - Hyper Casual Game Series";
-    }
-
-    getFutureGoals(): string[] {
-        return [
-            "Master Game Development Patterns",
-            "Create Innovative Gaming Experiences",
-            "Contribute to Open Source Projects",
-            "Build Strong Developer Community"
-        ];
-    }
-}
-```
+  <h3>🌟 Programlama Dilleri</h3>
+  
+  | Dil | Deneyim |
+  |-----|----------|
+  | Java | ⭐⭐⭐⭐⭐ |
+  | Python | ⭐⭐⭐⭐ |
+  | C++ | ⭐⭐⭐⭐ |
+  | C# | ⭐⭐⭐⭐ |
+  | C | ⭐⭐⭐ |
+</div>
 
 <!-- Aktif Projeler -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=440&height=45&lines=Active+Projects+%F0%9F%8E%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=440&height=45&lines=Aktif+Projeler+%F0%9F%8E%AE" alt="Typing SVG" />
 
 <table>
   <tr>
@@ -117,31 +103,22 @@ class Developer {
 </table>
 
 <!-- Yaratıcı Bölüm -->
-<details>
-<summary>🎨 Yaratıcı Köşe</summary>
-<br>
-
-\`\`\`ascii
-    _    _         _ _    _ _  __      _ _ 
-   / \  | |__   __| (_)  / / |/ /__ _ (_) |
-  / _ \ | '_ \ / _\` | | / /| ' // _\` || | |
- / ___ \| |_) | (_| | |/ / | . \ (_| || | |
-/_/   \_\_.__/ \__,_|_/_/  |_|\_\__,_|/ |_|
-                                     |__/   
-\`\`\`
-
-</details>
-
-<!-- Favori Alıntı -->
-<details>
-<summary>💭 Favori Alıntım</summary>
-<br>
-
-> "Kod yazmak sanattır; her satır bir fırça darbesi, her fonksiyon bir tablo, her proje bir başyapıttır."
-
-</details>
+<div align="center">
+  <h3>🎨 Yaratıcı Köşe</h3>
+  <p>
+    "Kodlama sanatında her satır bir fırça darbesi,<br>
+    her fonksiyon bir tablo,<br>
+    ve her proje benzersiz bir başyapıttır."
+  </p>
+</div>
 
 <!-- Alt Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
+</div>
+
+---
+
+<div align="center">
+  <h3>🌐 English version available <a href="README_EN.md">here</a></h3>
 </div>
